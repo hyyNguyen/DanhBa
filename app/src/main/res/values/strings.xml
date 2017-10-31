@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DanhBa</string>
+    <string name="male">Male</string>
+    <string name="felmale">Felmale</string>
+    <string name="save">Save</string>
+    <string name="do_you_want_to_call_or_message">Do you want to call or message</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+</resources>
